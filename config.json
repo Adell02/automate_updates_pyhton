@@ -1,0 +1,6 @@
+[
+    {
+    "version":4.3,
+    "files":["AutomationTool.py","import_data.py","config.json","git_update_checker.py"]
+    }
+]
